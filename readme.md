@@ -1,4 +1,4 @@
-<h3 align="center">Développeur full stack en formation, passionné par React.js côté front et curieux d'explorer Node.js côté back. À la recherche d'une alternance pour monter en compétences et construire des projets concrets de A à Z.</h3>
+<h3 align="center">Développeur full stack en formation, passionné par React.js côté front et curieux d'explorer Node.js côté back. À la recherche d'une alternance pour monter en compétences et participer à des projets concrets.</h3>
 
 ###
 
